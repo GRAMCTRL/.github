@@ -21,7 +21,7 @@ Together, we can push the boundaries of gaming hardware.
 
 ## Contact Us
 
-For support or inquiries, please visit our [Discord community](https://discord.com).
+For support or inquiries, please visit our [Discord](https://discord.gg/tSHztv5d).
 
 Follow us on Twitter/X at [@GRAMControllers](https://x.com/GRAMControllers).
 
