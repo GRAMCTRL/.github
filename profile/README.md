@@ -1,11 +1,11 @@
 # GRAM Digital Controllers
 
-Welcome to the official GitHub profile of GRAM Digital Controllers, where innovation meets open-source excellence.
+Howdy, partner! Welcome to the official GitHub profile of GRAM Digital Controllers.
 
 ## About Us
 
-Based in Dallas, Texas, GRAM Digital Controllers is dedicated to crafting premium gaming controllers that elevate the gaming experience.  
-Our mission is to blend top-tier hardware with open-source software, ensuring our products are not only high-quality but also accessible and customizable.
+Based in Dallas, Texas, GRAM Digital Controllers is dedicated to crafting the most premium and portable leverless controllers on the planet.
+Our mission is to blend top-tier design with open-source modularity, ensuring our products are not only high-quality but also accessible and customizable.
 
 ## Open-Source Commitment
 
@@ -25,4 +25,4 @@ For support or inquiries, please visit our [Discord](https://discord.gg/tSHztv5d
 
 Follow us on Twitter/X at [@GRAMControllers](https://x.com/GRAMControllers).
 
-Thank you for being part of the GRAM Digital Controllers journey.
+Thank you for being part of the GRAM Fam!
